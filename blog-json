@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Scopri il nostro Festival della Cultura",
+        "date": "2024-11-01",
+        "author": "Mario Rossi",
+        "content": "Partecipa alla raccolta dell'uva e scopri i segreti della vinificazione. Degustazioni di vini locali inclusi! lorem Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni 60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni 60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.",
+        "image": "/img/orologio.jpg",
+        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
+    },
+    {
+        "id": 2,
+        "title": "Scopri il nostro Festival della Cultura",
+        "date": "2024-10-01",
+        "author": "Marco Rossi",
+        "content": "Unisciti a noi per un weekend ricco di eventi culturali e artistici. Il Festival della Cultura si svolgerà dal 15 al 17 ottobre e offrirà laboratori, spettacoli dal vivo e mostre. Non perdere l'occasione di conoscere le tradizioni locali!",
+        "image": "/img/proloco.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ritrovo di Artigiani Locali",
+        "date": "2024-09-20",
+        "author": "Giulia Bianchi",
+        "content": "Il 5 ottobre si terrà un ritrovo di artigiani locali in piazza centrale. Sarà un'opportunità unica per scoprire l'arte e l'artigianato della nostra regione. Unisciti a noi per incontrare gli artigiani e acquistare prodotti fatti a mano.",
+        "image": "/img/torre-vecchia.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Gita Enogastronomica: Alla Scoperta dei Vini Locali",
+        "date": "2024-09-10",
+        "author": "Alessandro Verdi",
+        "content": "Il 25 settembre organizziamo una gita enogastronomica nelle cantine della nostra zona. Degustazioni di vini e piatti tipici locali ti aspettano! Prenota il tuo posto ora e vivi un'esperienza indimenticabile.",
+        "image": "/img/prolocolove.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Corso di Cucina Tradizionale",
+        "date": "2024-08-30",
+        "author": "Sofia Neri",
+        "content": "Impara a cucinare piatti tradizionali della nostra regione con il nostro corso di cucina. Si svolgerà il 10 ottobre presso la nostra sede. Non perdere l'occasione di imparare dai migliori chef locali!",
+        "image": "/img/orologio.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Puliamo il Nostro Paese",
+        "date": "2024-08-15",
+        "author": "Francesco Gallo",
+        "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
+        "image": "/img/proloco.jpg",
+        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
+    }
+]

@@ -46,7 +46,7 @@
         "author": "Francesco Gallo",
         "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
         "image": "/img/proloco.jpg",
-        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
+    
     },
     {
         "id": 7,
@@ -55,6 +55,5 @@
         "author": "Francesco Gallo",
         "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
         "image": "/img/proloco.jpg",
-        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
     }
 ]

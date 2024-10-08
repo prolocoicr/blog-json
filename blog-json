@@ -30,8 +30,7 @@
         "date": "2024-09-10",
         "author": "Alessandro Verdi",
         "content": "Il 25 settembre organizziamo una gita enogastronomica nelle cantine della nostra zona. Degustazioni di vini e piatti tipici locali ti aspettano! Prenota il tuo posto ora e vivi un'esperienza indimenticabile.",
-        "image": "/img/prolocolove.jpg",
-        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=F_7ZoAQ3aJM' frameborder='0' allowfullscreen></iframe>"
+        "image": "/img/prolocolove.jpg"
     },
     {
         "id": 5,

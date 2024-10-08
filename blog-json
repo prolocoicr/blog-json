@@ -55,5 +55,13 @@
         "author": "Francesco Gallo",
         "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
         "image": "/img/proloco.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Prova articolo",
+        "date": "2024-08-15",
+        "author": "Francesco Gallo",
+        "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
+        "image": "/img/proloco.jpg"
     }
 ]

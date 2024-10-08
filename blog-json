@@ -15,7 +15,7 @@
         "author": "Marco Rossi",
         "content": "Unisciti a noi per un weekend ricco di eventi culturali e artistici. Il Festival della Cultura si svolgerà dal 15 al 17 ottobre e offrirà laboratori, spettacoli dal vivo e mostre. Non perdere l'occasione di conoscere le tradizioni locali!",
         "image": "/img/proloco.jpg",
-           "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=bfjxyOtpvlA&list=PLZPisfKJK9p-sWKSS6rjj1Gg6EsMx_UDS' frameborder='0' allowfullscreen></iframe>"
+        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=bfjxyOtpvlA&list=PLZPisfKJK9p-sWKSS6rjj1Gg6EsMx_UDS' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": 3,
@@ -23,7 +23,8 @@
         "date": "2024-09-20",
         "author": "Giulia Bianchi",
         "content": "Il 5 ottobre si terrà un ritrovo di artigiani locali in piazza centrale. Sarà un'opportunità unica per scoprire l'arte e l'artigianato della nostra regione. Unisciti a noi per incontrare gli artigiani e acquistare prodotti fatti a mano.",
-        "image": "/img/torre-vecchia.jpeg"
+        "image": "/img/torre-vecchia.jpeg",
+        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=Nhtj7_KaplM&list=PLZPisfKJK9p-sWKSS6rjj1Gg6EsMx_UDS&index=2' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": 4,

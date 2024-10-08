@@ -6,7 +6,6 @@
         "author": "Mario Rossi",
         "content": "Partecipa alla raccolta dell'uva e scopri i segreti della vinificazione. Degustazioni di vini locali inclusi! lorem Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni 60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni 60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.",
         "image": "/img/orologio.jpg",
-        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": 2,
@@ -15,7 +14,6 @@
         "author": "Marco Rossi",
         "content": "Unisciti a noi per un weekend ricco di eventi culturali e artistici. Il Festival della Cultura si svolgerà dal 15 al 17 ottobre e offrirà laboratori, spettacoli dal vivo e mostre. Non perdere l'occasione di conoscere le tradizioni locali!",
         "image": "/img/proloco.jpg",
-        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=ScMzIvxBSi4' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": 3,
@@ -44,6 +42,15 @@
     {
         "id": 6,
         "title": "Puliamo il Nostro Paese",
+        "date": "2024-08-15",
+        "author": "Francesco Gallo",
+        "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
+        "image": "/img/proloco.jpg",
+        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
+    },
+    {
+        "id": 7,
+        "title": "Puliamo la nostra città",
         "date": "2024-08-15",
         "author": "Francesco Gallo",
         "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",

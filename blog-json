@@ -10,19 +10,19 @@
     },
      {
         "id": 2,
-        "title": "I saluti del presidente Pippo Capellupo Presidente regionale UNPLI CALABRIA",
-        "date": "2024-11-02",
-        "author": "Franco Viola",
-        "content": "Auguri e complimenti",
-        "image": "https://www.cosenzapost.it/wp-content/uploads/2024/03/Filippo-Capellupo.jpg"
+        "title": "Scopri il nostro Festival della Cultura",
+        "date": "2024-10-01",
+        "author": "Marco Rossi",
+        "content": "Unisciti a noi per un weekend ricco di eventi culturali e artistici. Il Festival della Cultura si svolgerà dal 15 al 17 ottobre e offrirà laboratori, spettacoli dal vivo e mostre. Non perdere l'occasione di conoscere le tradizioni locali!",
+        "image": "/img/proloco.jpg"
     },
     {
         "id": 3,
-        "title": "Saluti",
-        "date": "2024-11-02",
-        "author": "Presidente UNPLI CROTONE Giovanni Fabiano",
-        "content": "Le Pro Loco crotonesi ",
-        "image": "https://www.cosenzapost.it/wp-content/uploads/2024/03/Filippo-Capellupo.jpg"
+        "title": "Ritrovo di Artigiani Locali",
+        "date": "2024-09-20",
+        "author": "Giulia Bianchi",
+        "content": "Il 5 ottobre si terrà un ritrovo di artigiani locali in piazza centrale. Sarà un'opportunità unica per scoprire l'arte e l'artigianato della nostra regione. Unisciti a noi per incontrare gli artigiani e acquistare prodotti fatti a mano.",
+        "image": "/img/torre-vecchia.jpeg"
     },
     {
         "id": 4,
@@ -30,8 +30,7 @@
         "date": "2024-09-10",
         "author": "Alessandro Verdi",
         "content": "Il 25 settembre organizziamo una gita enogastronomica nelle cantine della nostra zona. Degustazioni di vini e piatti tipici locali ti aspettano! Prenota il tuo posto ora e vivi un'esperienza indimenticabile.",
-        "image": "/img/prolocolove.jpg",
-        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=Nhtj7_KaplM&list=PLZPisfKJK9p-sWKSS6rjj1Gg6EsMx_UDS&index=2' frameborder='0' allowfullscreen></iframe>"
+        "image": "/img/prolocolove.jpg"
     },
     {
         "id": 5,
@@ -47,23 +46,7 @@
         "date": "2024-08-15",
         "author": "Francesco Gallo",
         "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
-        "image": "/img/proloco.jpg"
-    
-    },
-    {
-        "id": 7,
-        "title": "Puliamo la nostra città",
-        "date": "2024-08-15",
-        "author": "Francesco Gallo",
-        "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
-        "image": "/img/proloco.jpg"
-    },
-    {
-        "id": 8,
-        "title": "Prova articolo",
-        "date": "2024-08-15",
-        "author": "Francesco Gallo",
-        "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
-        "image": "/img/proloco.jpg"
+        "image": "/img/proloco.jpg",
+        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
     }
 ]

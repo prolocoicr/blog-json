@@ -10,21 +10,29 @@
     },
     {
         "id": 2,
-        "title": "Scopri il nostro Festival della Cultura",
-        "date": "2024-10-01",
-        "author": "Marco Rossi",
-        "content": "Unisciti a noi per un weekend ricco di eventi culturali e artistici. Il Festival della Cultura si svolgerà dal 15 al 17 ottobre e offrirà laboratori, spettacoli dal vivo e mostre. Non perdere l'occasione di conoscere le tradizioni locali!",
-        "image": "/img/proloco.jpg",
-        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=bfjxyOtpvlA&list=PLZPisfKJK9p-sWKSS6rjj1Gg6EsMx_UDS' frameborder='0' allowfullscreen></iframe>"
+        "title": "I saluti del presidente Pippo Capellupo Presidente regionale UNPLI CALABRIA",
+        "date": "02/11/2024",
+        "author": "Franco Viola",
+        "content": "Auguri e complimenti per questo nuovo traguardo. Gli strumenti di lavoro e di comunicazioni non possono prescindere dall'avere un sito sempre aggiornato e pieno di notizie utili. Oggi le Proloco sono chiamate a grandi responsabilità che portano ad avere non solo flussi di persone a vivere i nostri territori, ma anche a farli vivere bene a coloro I quali sono i cittadini delle nostre comunità.  Con le Istituzioni abbiamo l'obbligo di programmare il futuro e di lavorare per una qualità  della vita sempre migliore",
+        "image": "https://www.cosenzapost.it/wp-content/uploads/2024/03/Filippo-Capellupo.jpg"
+        
     },
     {
         "id": 3,
-        "title": "Ritrovo di Artigiani Locali",
-        "date": "2024-09-20",
-        "author": "Giulia Bianchi",
-        "content": "Il 5 ottobre si terrà un ritrovo di artigiani locali in piazza centrale. Sarà un'opportunità unica per scoprire l'arte e l'artigianato della nostra regione. Unisciti a noi per incontrare gli artigiani e acquistare prodotti fatti a mano.",
-        "image": "/img/torre-vecchia.jpeg",
-        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=Nhtj7_KaplM&list=PLZPisfKJK9p-sWKSS6rjj1Gg6EsMx_UDS&index=2' frameborder='0' allowfullscreen></iframe>"
+        "title": "Saluti",
+        "date": "02/11/2024",
+        "author": "Presidente UNPLI CROTONE Giovanni Fabiano",
+        "content": "Le Pro Loco crotonesi svolgono un ruolo cruciale nella promozione del territorio e delle tradizioni locali, soprattutto in una provincia ricca di storia e cultura come quella di Crotone. Queste associazioni sono spesso il cuore pulsante dell’organizzazione di eventi, fiere e manifestazioni che mirano a valorizzare il patrimonio culturale e naturale della zona, coinvolgendo la comunità locale e attirando turisti.
+
+Una delle loro funzioni principali è quella di promuovere le eccellenze enogastronomiche del territorio, contribuendo alla diffusione delle tradizioni culinarie locali. Attraverso sagre e festival, le Pro Loco crotonesi offrono una vetrina alle produzioni tipiche come il vino, l’olio, i formaggi e i piatti tradizionali come la sardella e il pane. Questo non solo rafforza l’identità culturale locale, ma ha anche un impatto positivo sull’economia locale.
+
+Le Pro Loco sono anche custodi delle tradizioni religiose e folcloristiche, come le processioni, le feste patronali e le rievocazioni storiche. Attraverso queste iniziative, mantengono vive le radici culturali della comunità, creando occasioni di incontro e rafforzando i legami sociali.
+
+Tuttavia, le Pro Loco crotonesi affrontano anche diverse sfide, come la mancanza di risorse finanziarie e la difficoltà di coinvolgere i giovani nelle attività associative, però grazie al Servizio Civile Universale si sta cercando di sopperire a questo.  Nonostante ciò, il loro contributo resta fondamentale per la valorizzazione di un territorio che ha molto da offrire in termini di storia, cultura e bellezze naturali, ma che spesso è sottovalutato o poco conosciuto a livello nazionale.
+
+Oggi le Pro Loco crotonesi unite rappresentano un pilastro per la promozione del territorio e delle tradizioni locali, svolgendo un lavoro essenziale per mantenere vivo il legame tra passato e presente, e per costruire un futuro in cui la cultura e il turismo sostenibile possano essere motori di sviluppo",
+        "image": "https://scontent.fcia5-1.fna.fbcdn.net/v/t39.30808-6/449090415_10225928432819341_8481528380440956888_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ho0rfnm0jUoQ7kNvgFjULuA&_nc_zt=23&_nc_ht=scontent.fcia5-1.fna&_nc_gid=A3N9KaIa1johB-lmh2MouCn&oh=00_AYAqDErDL2lOsV-IQ-JfIs4-y9lpN3IYhXZlnb2qSX1FMg&oe=672B9BA2",
+     
     },
     {
         "id": 4,
@@ -32,7 +40,8 @@
         "date": "2024-09-10",
         "author": "Alessandro Verdi",
         "content": "Il 25 settembre organizziamo una gita enogastronomica nelle cantine della nostra zona. Degustazioni di vini e piatti tipici locali ti aspettano! Prenota il tuo posto ora e vivi un'esperienza indimenticabile.",
-        "image": "/img/prolocolove.jpg"
+        "image": "/img/prolocolove.jpg",
+        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=Nhtj7_KaplM&list=PLZPisfKJK9p-sWKSS6rjj1Gg6EsMx_UDS&index=2' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": 5,

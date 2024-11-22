@@ -50,5 +50,14 @@
         "content": "Unisciti a noi il 12 settembre per una giornata di pulizia del nostro paese. L'obiettivo è rendere il nostro territorio più bello e accogliente. Ogni mano conta, partecipa anche tu!",
         "image": "/img/proloco.jpg",
         "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
+    },
+    {
+        "id": 7,
+        "title": "Piano di rigenerazione urbana di Capo Rizzuto e Capo Piccolo",
+        "date": "2024-11-28",
+        "author": "Comune di Isola Di Capo Rizzuto",
+        "content": "In continuità con il PAU di Le Catella l'Amminastazione prosegue lattività di Pianificazione strategica del territorio comunale con l'avvio del processo di forazione del Piano Attuativo Unitario di Rigenerazione Urbana di Capo Rizzuto e Capo Piccolo",
+        "image": "https://scontent.fbri2-1.fna.fbcdn.net/v/t39.30808-6/467780708_444022455393044_4154863814696838070_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ukQ43lCqAd8Q7kNvgEieNAn&_nc_zt=23&_nc_ht=scontent.fbri2-1.fna&_nc_gid=AOfyGQbJZ91CCnScJGWGG_r&oh=00_AYDVuA9_h3koP00y7RGnDip-vWrQ_VRDxZF_vcJtAV67sA&oe=67463AAB,
+        "video": ""
     }
 ]

@@ -8,17 +8,26 @@
         "image": "https://lanuovabq.it/storage/imgs/ucciali-large.jpg",
         "video": ""
     },
-     {
+    {
         "id": 2,
+        "title": "𝐁𝐚𝐧𝐝𝐨 𝐒𝐞𝐫𝐯𝐢𝐳𝐢𝐨 𝐂𝐢𝐯𝐢𝐥𝐞 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐥𝐞 𝟐𝟎𝟐𝟓 Scegli di farlo con 𝐔𝐍𝐏𝐋𝐈!",
+        "date": "2025-01-10",
+        "author": "Franco Viola",
+        "content": "𝐂𝐡𝐢 𝐩𝐮𝐨̀ 𝐩𝐚𝐫𝐭𝐞𝐜𝐢𝐩𝐚𝐫𝐞? Ogni cittadino dell'Unione Europea e ogni cittadino extraeuropeo con regolare permesso di soggiorno. Chi ha un'età tra i 18 e i 28 anni. 𝐏𝐞𝐫𝐜𝐡𝐞́ 𝐬𝐜𝐞𝐠𝐥𝐢𝐞𝐫𝐞 𝐔𝐍𝐏𝐋𝐈? Per valorizzare il patrimonio culturale, materiale e immateriale. Per sostenere lo sviluppo del turismo locale. Per partecipare a eventi e manifestazioni per animare la comunità. Per promuovere il territorio in collaborazione con Enti e Istituzioni locali. Per scoprire il mondo delle Pro Loco, custodi di cultura e tradizioni.𝐂𝐨𝐬𝐚 𝐨𝐟𝐟𝐫𝐞 𝐢𝐥 𝐬𝐞𝐫𝐯𝐢𝐳𝐢𝐨 𝐜𝐢𝐯𝐢𝐥𝐞? Ricevere un assegno mensile di €507,30. Ottenere crediti formativi universitari. Ricevere un attestato di partecipazione che garantisce una riserva di posti nei concorsi pubblici. 𝐃𝐢𝐯𝐞𝐧𝐭𝐚 𝐒𝐂𝐔 𝐔𝐍𝐏𝐋𝐈, 𝐦𝐚𝐧𝐝𝐚 𝐥𝐚 𝐜𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐮𝐫𝐚 𝐞𝐧𝐭𝐫𝐨 𝐢𝐥 𝟏𝟖 𝐟𝐞𝐛𝐛𝐫𝐚𝐢𝐨 𝟐𝟎𝟐𝟓.",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq1r9GOoonUcaNKpZzQrqfo9yEXIEZagTnq5ncORmfO3ySBwMh",
+        "video": ""
+    },
+     {
+        "id": 3,
         "title": "Saluti Presidente Regionale UNPLI Calabria Pippo Cappelupo",
         "date": "2024-11-02",
         "author": "Franco Viola",
-        "content": "Auguri e complimenti per questo nuovo traguardo. Gli strumenti di lavoro e di comunicazioni non possono prescindere dall'avere un sito sempre aggiornato e pieno di notizie utili. Oggi le Proloco sono chiamate a grandi responsabilità che portano ad avere non solo flussi di persone a vivere i nostri territori, ma anche a farli vivere bene a coloro I quali sono i cittadini delle nostre comunità.  Con le Istituzioni abbiamo l'obbligo di programmare il futuro e di lavorare per una qualità  della vita sempre migliore",
+        "content": "Auguri e complimenti per questo nuovo traguardo. Gli strumenti di lavoro e di comunicazioni non possono prescindere dall'avere un sito sempre aggiornato e pieno di notizie utili. Oggi le Proloco sono chiamate a grandi responsabilità che portano ad avere non solo flussi di persone a vivere i nostri territori, ma anche a farli vivere bene a coloro I quali sono i cittadini delle nostre comunità.  Con le Istituzioni abbiamo l'obbligo di programmare il futuro e di lavorare per una qualità  della vita sempre migliore ",
         "image": "https://www.cosenzapost.it/wp-content/uploads/2024/03/Filippo-Capellupo.jpg"
         
     },
     {
-    "id": 3,
+    "id": 4,
     "title": "Saluti Giovanni Fabiano Presidente UNPLI Crotone",
     "date": "2024-11-02",
     "author": "Franco Viola",
@@ -26,7 +35,7 @@
     "image": "https://progettotouring.it/radiotouring104/wp-content/uploads/sites/6/2023/05/gn1su-2-1170x577.jpg"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Saluti dal Predidente della Proloco di Isola di Capo Rizzuto GianFranco Micalizzi",
         "date": "2024-11-02",
         "author": "Franco Viola",
@@ -34,7 +43,7 @@
         "image": "/img/micalizzi.jpg"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Corso di Cucina Tradizionale",
         "date": "2024-08-30",
         "author": "Sofia Neri",
@@ -43,7 +52,7 @@
         "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=RK1RRVR9A2g&list=PL4Gr5tOAPttJ247vzkv1ZbUEm_YtKLejH' frameborder='0' allowfullscreen></iframe>"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Puliamo il Nostro Paese",
         "date": "2024-08-15",
         "author": "Francesco Gallo",
@@ -52,7 +61,7 @@
         "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Piano di rigenerazione urbana di Capo Rizzuto e Capo Piccolo",
         "date": "2024-11-28",
         "author": "Viola Rosa",
